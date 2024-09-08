@@ -1,0 +1,87 @@
+/* .card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.allcard {
+    /* text-align: center; */
+    margin-top: 40%;
+    padding: 0 25px;
+    width: 100%;
+    background: aqua;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 100px;
+}
+.weather{
+    text-align: center;
+}
+.Nick_name {
+    padding-top: 15px;
+    margin-left: 0;
+    margin-bottom: 0rem;
+    margin-bottom: 15px;
+    color: rgb(77, 77, 238);
+}
+
+.line_001 {
+    text-align: center;
+    margin-bottom: 15px;
+    border: 1px solid gray;
+}
+
+.img_weather {
+    width: 150px;
+}
+
+.gradus {
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.weathername {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.location_name {
+    font-size: 24px;
+    margin-top: 10px;
+
+    margin-bottom: 40px;
+}
+
+.andwett {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.divfeels {
+    text-align: center;
+    width: 50%;
+}
+
+.gradus_002 {
+    font-size: 20px;
+}
+
+.weatherfeeds {
+    font-size: 16px;
+}
+
+.divwett {
+    text-align: center;
+    width: 50%;
+    border-left: 2px solid grey;
+}
+
+.pratsend {
+    font-size: 20px;
+}
+
+.weatherhumidity {
+    font-size: 16px;
+}
